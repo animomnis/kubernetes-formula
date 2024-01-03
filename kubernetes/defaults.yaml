@@ -459,7 +459,7 @@ kubernetes:
       uri_b: 'https://github.com/rancher/k3s/releases/download'
       uri_s: 'https://get.k3s.io'
       binary:
-        source_hash: '47e686ad5390670da79a467ba94399d72e472364bc064a20fecd3937a8d928b5'  # noqa 204
+        source_hash: 'b7f8c026c5346b3e894d731f1dc2490cd7281687549f34c28a849f58c62e3e48'  # noqa 204
       script:
         source_hash:
         killall: /usr/local/bin/k3s-killall.sh
